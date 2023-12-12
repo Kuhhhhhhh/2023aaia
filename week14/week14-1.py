@@ -1,4 +1,4 @@
-#leetcode 23/12/12每日挑戰題
+#leetcode 23/12/12每日挑戰題 1464. Maximum Product of Two Elements in an Array
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         ans = 0
